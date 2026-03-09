@@ -218,4 +218,15 @@ __marimo__/
 # Project specific
 data/external/
 reports/figures/
+
+# project outputs (training mode)
+data/processed/*.csv
+
+# jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# local editor settings
+.vscode/
